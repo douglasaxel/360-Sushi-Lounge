@@ -37,7 +37,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Lilita+One&family=Roboto:wght@300;400;500;700&family=Sofia&display=swap");
 @font-face {
   font-family: "Japanese";
-  src: url("/assets/fonts/Japanese.ttf");
+  src: url("assets/fonts/Japanese.ttf");
 }
 .font-japanese {
   font-family: "Japanese";
